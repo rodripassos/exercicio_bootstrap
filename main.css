@@ -1,0 +1,12 @@
+body {
+    max-width: 1024px;
+    padding-left: 480px;
+    background-color: rgb(250, 240, 167);
+}
+
+form,
+button,
+h2 {
+    margin-top: 32px;
+    max-width: 500px;
+}
